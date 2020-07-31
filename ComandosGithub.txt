@@ -15,7 +15,8 @@ git init sirve para inicializar el proyecto git.
 
         ls -al: Muestra todos los archivos del proyecto
         git status: Veo el status del proyecto
-        git add (nombre archivo o . (. para todo)): Te agrega el archivo a la staging
+        git add (nombre archivo o . (. para todo)): Te agrega el archivo (cambios) a la staging
         git rm: Te quita el archivo de la staging
         git rm --catched: No está en memoria ram, no guardado en base de datos en sus cambios (es como si no hubiera agregado el add)
-        git commit -m "Texto": Envia version al repositorio y lo envía con un texto que explica el cambio que se realizó (-m "texto" is a must de buenas prácticas)
+        git commit -m "Texto": Envia version al repositorio y lo envía con un texto que explica el cambio que se realizó (-m "texto" is a must de buenas prácticas) [Queda grabado como HEAD -> master]
+        git log: Historial de cambios
