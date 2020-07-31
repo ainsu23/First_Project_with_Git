@@ -3,12 +3,13 @@ configuración git:
     git config --global user.email "Andres Insuasty"
     git config --list
 
-Cultura General
+Cultura General: shortcuts
 guion (-) para una letra
 guion guion(--) para palabras
 cd E:/ y seguir hasta llegar a la carpeta proyecto
 
-Mundo Git
+Mundo Git: Comandos para navegar y guardar
+empezar con:
 git init sirve para inicializar el proyecto git.
     este crea unas carpetas ocultas donde se guardan los cambios atomicos en una base de datos de git
 
