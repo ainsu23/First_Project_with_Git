@@ -20,3 +20,8 @@ git init sirve para inicializar el proyecto git.
         git rm --catched: No está en memoria ram, no guardado en base de datos en sus cambios (es como si no hubiera agregado el add)
         git commit -m "Texto": Envia version al repositorio y lo envía con un texto que explica el cambio que se realizó (-m "texto" is a must de buenas prácticas) [Queda grabado como HEAD -> master]
         git log: Historial de cambios
+        git show: Muestra los cambios realizados en los archivos de tu proyecto con git
+                    *Compara la version maestra con la versión ánterior
+                        diff --git: muestra los archivos que compara en bd
+                        - lo que había antes
+                        + lo que se agregó
