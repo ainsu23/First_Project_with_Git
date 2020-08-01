@@ -25,3 +25,4 @@ git init sirve para inicializar el proyecto git.
                         diff --git: muestra los archivos que compara en bd
                         - lo que había antes
                         + lo que se agregó
+        git diff codigo_commit1 codigo_commit2: Muestra en pantalla la diferencia entre la version1 y version2 seleccionadas
