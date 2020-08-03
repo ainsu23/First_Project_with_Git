@@ -32,3 +32,6 @@ git init sirve para inicializar el proyecto git.
                   --soft: Lo que este en staging sigue en staging
         git checkout codigo_commit1: ir a la version codigo_commit1 --> Ojo si se hace commit después de hacer esto se pierde todo lo guardado
         git checkout master: se devuelve a la version master
+        git rm: elimina archivos de git sin eliminar historial de versiones
+                --cached: elimina del staging y del proximo commit pero los mantiene en disco duro
+                --force: elimina de git y disco  duro.
