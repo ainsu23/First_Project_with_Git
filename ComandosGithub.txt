@@ -30,3 +30,5 @@ git init sirve para inicializar el proyecto git.
         git reset: nos permite volver a la version deseada
                   --hard: Todo vuelve al estado ánterior
                   --soft: Lo que este en staging sigue en staging
+        git checkout codigo_commit1: ir a la version codigo_commit1 --> Ojo si se hace commit después de hacer esto se pierde todo lo guardado
+        git checkout master: se devuelve a la version master
