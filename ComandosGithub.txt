@@ -42,3 +42,10 @@ Repositorio remoto:
         git fetch: traer del última version del repositorio y ponerlo en el repositorio local
         git merge: traer del repositorio al directorio de trabajo
         git pull: git fetch + git merge
+
+Crear rama o branches de Git: Sirve para trabajar algo paralelo y luego se afecta en la version final
+        git branch: Crea una rama o branch
+        git checkout nombre_rama: Cambiar entre ramas
+
+
+
