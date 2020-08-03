@@ -35,3 +35,10 @@ git init sirve para inicializar el proyecto git.
         git rm: elimina archivos de git sin eliminar historial de versiones
                 --cached: elimina del staging y del proximo commit pero los mantiene en disco duro
                 --force: elimina de git y disco  duro.
+
+Repositorio remoto:
+        git clone url: git init pero para servidores remotos y trabajos entre personas
+        git push: mandar el master a donde todos trabajan
+        git fetch: traer del última version del repositorio y ponerlo en el repositorio local
+        git merge: traer del repositorio al directorio de trabajo
+        git pull: git fetch + git merge
