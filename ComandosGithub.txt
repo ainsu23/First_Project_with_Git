@@ -41,6 +41,7 @@ Repositorio remoto:
         git push: mandar el master a donde todos trabajan
         git fetch: traer del última version del repositorio y ponerlo en el repositorio local
         git merge: traer del repositorio al directorio de trabajo
+            También sirve para juntar dos proyectos diferentes (master + cabecera)
         git pull: git fetch + git merge
 
 Crear rama o branches de Git: Sirve para trabajar algo paralelo y luego se afecta en la version final
