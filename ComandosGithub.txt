@@ -50,3 +50,5 @@ Crear rama o branches de Git: Sirve para trabajar algo paralelo y luego se afect
 
 Para juntar cambios de un proyecto entre ramas se debe usar el merge, es importante pararse en la rama principal y hacer el git merge cabecera (rama a juntar)
 
+Resolución de conflictos: Abrir txt y cambiar
+                        Abrir txt y solucionar
