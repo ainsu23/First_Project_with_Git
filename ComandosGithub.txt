@@ -52,3 +52,8 @@ Para juntar cambios de un proyecto entre ramas se debe usar el merge, es importa
 
 Resolución de conflictos: VisualCode muestra las versiones y se soluciona
                         Abrir txt y borrar    
+
+Subir proyecto al repositorio remoto:
+    1. En Github crear un proyecto
+    2. Copiar link https
+    3. En Git escribir git remote add origin +link
