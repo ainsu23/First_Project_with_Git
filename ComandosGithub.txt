@@ -1,4 +1,4 @@
-configuración git:
+﻿configuración git:
     git config --global user.name "Andres Insuasty"
     git config --global user.email "Andres Insuasty"
     git config --list
